@@ -20,3 +20,20 @@ li {
     font-family: "Verdana", "Monaco", sans-serif;
 
 }
+
+.content {
+    margin: 0 auto;
+}
+
+.appetizers,
+.mains {
+    text-align: center;
+    margin: 0 auto;
+}
+
+.appetizers ul,
+.mains ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
